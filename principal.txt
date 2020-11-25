@@ -1,2 +1,3 @@
 main(){
+ System.out("Hola mundo");
 }
